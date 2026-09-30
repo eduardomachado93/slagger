@@ -1,5 +1,6 @@
 # Slagger 🦥
 
+[![Status](https://img.shields.io/badge/status-In%20Progress-yellow)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.2-777bb4.svg)](composer.json)
 [![Slim 4](https://img.shields.io/badge/slim-4.12%2B-brightgreen.svg)](composer.json)
