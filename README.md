@@ -21,22 +21,6 @@
 
 ---
 
-## Installation
-
-Install via Composer:
-
-```bash
-composer require eduardomachado93/slagger
-```
-
-You will also need a PSR-7 implementation in your Slim 4 project (e.g., `nyholm/psr7` or `slim/psr7`):
-
-```bash
-composer require nyholm/psr7 nyholm/psr7-server
-```
-
----
-
 ## Quick Start
 
 ### 1. Define Your DTOs and Controllers
